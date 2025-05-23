@@ -8,8 +8,9 @@
 
 🤝 Open to collaborating on impactful Data Science & AI projects
 
-📫 Reach me via LinkedIn or email (ojilatracy@gmail.com / https://www.linkedin.com/in/tracy-ojila-961b58295?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPn92ynX5T0CiX8%2FGz6rt2Q%3D%3D)
-
+### 📫 Reach me via:
+- [LinkedIn](https://www.linkedin.com/in/tracy-ojila-961b58295?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPn92ynX5T0CiX8%2FGz6rt2Q%3D%3D)
+- [Email](ojilatracy@gmail.com)
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I love turning messy data into meaningful insights
